@@ -4,5 +4,5 @@ def square_array(array)
   newSquareArray =[]
   
   while counter < array.length do
-    
+    squared = array[counter] ** 
 end
